@@ -35,8 +35,6 @@ def load_tickers(symbols):
     for symbol in symbols:
         load_ticker(symbol)
 
-init_db()
-load_tickers(["AAPL", "MSFT", "JPM", "SPY"])
 
 
 
