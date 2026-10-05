@@ -46,4 +46,3 @@ def load_tickers(symbols):
 
 
 
-
